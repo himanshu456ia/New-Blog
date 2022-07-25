@@ -110,4 +110,37 @@ export const blogList = [
     createdAt: 'June 03, 2021',
     cover: '/assets/images/10.jpg',
     },
+    {
+    id: 11,
+    title: 'Keanu Reeves dropped by Comic-Con to reveal John Wick 4 sneak peek teaser',
+    category: 'movies',
+    subCategory: ['skill', 'design', 'passion'],
+    description:
+     "The movie won't hit theaters until March 2023, but that didn't stop Keanu Reeves from swinging by Comic-Con to introduce a sneak peek teaser for John Wick Chapter 4, simply titled John Wick (which might be confusing given that this is also the title of the original film that launched the whole franchise). According to Deadline Hollywood, Reeves crashed the Collider’s Directors on Directing panel, which included John Wick: Chapter 4 director Chad Stahelski as a panelist.",
+    authorName: 'John Doe',
+    createdAt: 'June 03, 2021',
+    cover: '/assets/images/11.jpg',
+    },
+    {
+      id: 12,
+      title: 'Game review: Stray redefines the adventure genre with a cat’s-eye view',
+      category: 'game',
+      subCategory: ['skill', 'design', 'passion'],
+      description:
+       "The indie gaming genre of 'silly animal exploration' has produced a bunch of fun and unique experiences. We've loved pantomiming as the following: hellraising goats, car-driving bears, and (if you'll allow it into the genre) bendy, walking slices of bread.But three years ago, Untitled Goose Game propelled the genre to its zenith. Its production values, accessibility, and uniquely dry sense of humor were a noticeable step up from the genre's typical 'glitching barnyard animal' gimmick, and the result was a breakout hit. At that point, I quietly wondered: Where else can video games featuring unexpected animal heroes go",
+      authorName: 'John Doe',
+      createdAt: 'June 03, 2021',
+      cover: '/assets/images/12.jpg',
+      },
+      {
+        id: 13,
+        title: 'Black Panther: Wakanda Forever teaser is a moving tribute to Chadwick Boseman',
+        category: 'movies',
+        subCategory: ['skill', 'design', 'passion'],
+        description:
+         "It has been three years since the last in-person San Diego Comic Con, and Marvel Studios pulled out all the stops for its panel in Hall H, giving us a jam-packed overview of Phases Four, Five, and Six in the MCU. We got a new trailer for She-Hulk: Attorney at Law, and those in attendance were able to view exclusive sneak peek teasers for Ant-Man: Quantumania, Guardians of the Galaxy Vol. 3, and a new crossover series event called Secret Invasion. The panel ended with the first teaser for Black Panther: Wakanda Forever.Wakanda Forever was already in development when Chadwick Boseman—who played T'Challa in 2018's Black Panther—died of colon cancer in August 2020. Director Ryan Coogler, Marvel's Kevin Feige, and many others had been unaware that Boseman was even ill. They decided not to recast T'Challa, nor would they try to insert the character using visual effects, although most of the other main cast members are returning. His portrayal... is iconic and transcends any iteration of the character in any other medium from Marvel's past,Feige said in a December 2020 statement.",
+        authorName: 'John Doe',
+        createdAt: 'June 03, 2021',
+        cover: '/assets/images/13.jpg',
+        },
 ];
